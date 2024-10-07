@@ -1,1 +1,2 @@
 The second option
+always remember to log out from github!
